@@ -115,20 +115,17 @@ home_keyboard_pm = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="Commands ❓", callback_data="bot_commands"
+                text="🌹𝙾𝚆𝙽𝙴𝚁⚡",url=f"https://t.me/SiiyaRaam", 
             ),
             InlineKeyboardButton(
-                text="Repo 🛠",
-                url="https://github.com/thehamkercat/WilliamButcherBot",
+                text="✨GROUP😍",
+                url=f"https://t.me/SquadGoalsss",
             ),
         ],
         [
+           
             InlineKeyboardButton(
-                text="System Stats 🖥",
-                callback_data="stats_callback",
-            ),
-            InlineKeyboardButton(
-                text="Support 👨", url="http://t.me/WBBSupport"
+                text="Support 😎", url="http://t.me/gifsgalleryy", 
             ),
         ],
         [
@@ -141,9 +138,9 @@ home_keyboard_pm = InlineKeyboardMarkup(
 )
 
 home_text_pm = (
-        f"Hey there! My name is {BOT_NAME}. I can manage your "
-        + "group with lots of useful features, feel free to "
-        + "add me to your group."
+        f"🤖 Im 𝚆𝙰𝚁𝚁𝙸𝙾𝚁𝙼𝚄𝚂𝙸𝙲 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 𝙱𝙾𝚃😎" 
+        + "  𝐌𝐢𝐧𝐞 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐚𝐧𝐝 𝐦𝐨𝐧𝐞𝐭𝐢𝐳𝐞𝐬 𝐢𝐬 𝐝𝐞𝐯𝐢𝐥 𝐛𝐨𝐲 𝐏𝐫𝐨 𝐦𝐚𝐱 𝐩𝐞𝐫𝐬𝐨𝐧 𝙷𝚎 𝙼𝚊𝚔𝚎 𝚒𝚝 𝐖𝐢𝐭𝐡 𝐥𝐨𝐭 𝐨𝐟 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐈'𝐦 𝐬𝐮𝐫𝐞 𝐮 𝐥𝐢𝐤𝐞𝐝 𝐢𝐭"
+        + "𝙰𝙳𝙳 𝙼𝙴 𝙱𝙰𝙼𝙱𝚈 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿🌚."
 )
 
 keyboard = InlineKeyboardMarkup(
@@ -154,15 +151,12 @@ keyboard = InlineKeyboardMarkup(
                 url=f"t.me/{BOT_USERNAME}?start=help",
             ),
             InlineKeyboardButton(
-                text="Repo 🛠",
-                url="https://github.com/thehamkercat/WilliamButcherBot",
+                text="𝙶𝚁𝙾𝚄𝙿 😍",url=f"https://t.me/SquadGoalsss", 
+                
             ),
         ],
         [
-            InlineKeyboardButton(
-                text="System Stats 💻",
-                callback_data="stats_callback",
-            ),
+            
             InlineKeyboardButton(text="Support 👨", url="t.me/WBBSupport"),
         ],
     ]
