@@ -136,6 +136,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
         ],
     ]
 )
+home_start_pic=f"https://te.legra.ph/file/eafc028ac026704af987b.jpg"
 
 home_text_pm = """ Hello *{}*, My name is *{}*!
                    🤖 Im 𝚆𝙰𝚁𝚁𝙸𝙾𝚁𝙼𝚄𝚂𝙸𝙲 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 𝙱𝙾𝚃😎 
