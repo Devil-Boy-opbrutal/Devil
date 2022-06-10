@@ -163,7 +163,7 @@ keyboard = InlineKeyboardMarkup(
         ],
         [
             
-            InlineKeyboardButton(text="Support 👨", url="t.me/WBBSupport"),
+            InlineKeyboardButton(text="Support ❤", url="t.me/gifsgalleryy"),
         ],
     ]
 )
