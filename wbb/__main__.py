@@ -136,13 +136,17 @@ home_keyboard_pm = InlineKeyboardMarkup(
         ],
     ]
 )
-home_start_pic=f"https://te.legra.ph/file/eafc028ac026704af987b.jpg"
+photo=f"https://te.legra.ph/file/eafc028ac026704af987b.png", 
 
-home_text_pm = """ Hello *{}*, My name is *{}*!
-                   🤖 Im 𝚆𝙰𝚁𝚁𝙸𝙾𝚁𝙼𝚄𝚂𝙸𝙲 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 𝙱𝙾𝚃😎 
-                   𝐌𝐢𝐧𝐞 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐚𝐧𝐝 𝐦𝐨𝐧𝐞𝐭𝐢𝐳𝐞𝐬 𝐢𝐬 𝐝𝐞𝐯𝐢𝐥 𝐛𝐨𝐲 𝐏𝐫𝐨 𝐦𝐚𝐱 𝐩𝐞𝐫𝐬𝐨𝐧 𝙷𝚎 𝙼𝚊𝚔𝚎 𝚒𝚝 𝐖𝐢𝐭𝐡 𝐥𝐨𝐭 𝐨𝐟 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐈'𝐦 𝐬𝐮𝐫𝐞 𝐮 𝐥𝐢𝐤𝐞𝐝 𝐢𝐭
-                   𝙰𝙳𝙳 𝙼𝙴 𝙱𝙰𝙼𝙱𝚈 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿🌚
-               """
+home_text_pm ="""
+┏━━━━━━━━━━━━━━━━━┓
+┣★ ᴄʀᴇᴀᴛᴏʀ : [DEVYLBOY](https://t.me/raamsiiya)
+┣★ ᴜᴘᴅᴀᴛᴇs : [Shiv.Demon](https://t.me/Shivamdemon)
+┗━━━━━━━━━━━━━━━━━┛
+🤖 Im 𝚆𝙰𝚁𝚁𝙸𝙾𝚁𝙼𝚄𝚂𝙸𝙲 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 𝙱𝙾𝚃😎 
+𝐌𝐢𝐧𝐞 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐚𝐧𝐝 𝐦𝐨𝐧𝐞𝐭𝐢𝐳𝐞𝐬 𝐢𝐬 𝐝𝐞𝐯𝐢𝐥 𝐛𝐨𝐲 𝐏𝐫𝐨 𝐦𝐚𝐱 𝐩𝐞𝐫𝐬𝐨𝐧 𝙷𝚎 𝙼𝚊𝚔𝚎 𝚒𝚝 𝐖𝐢𝐭𝐡 𝐥𝐨𝐭 𝐨𝐟 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐈'𝐦 𝐬𝐮𝐫𝐞 𝐮 𝐥𝐢𝐤𝐞𝐝 𝐢𝐭
+𝙰𝙳𝙳 𝙼𝙴 𝙱𝙰𝙼𝙱𝚈 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿🌚
+ """
 
 
 keyboard = InlineKeyboardMarkup(
